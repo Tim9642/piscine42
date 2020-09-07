@@ -1,0 +1,23 @@
+Credentials cache: API:61209FD7-1157-4FD2-9889-87898985CF95
+        Principal: tschaft@42.FR
+    Cache version: 0
+
+Server: krbtgt/42.FR@42.FR
+Client: tschaft@42.FR
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 1
+Ticket length: 324
+Auth time:  Sep  7 13:37:08 2020
+End time:   Sep 14 13:37:08 2020
+Renew till: Sep 14 13:37:08 2020
+Ticket flags: enc-pa-rep, pre-authent, initial, renewable, proxiable, forwardable
+Addresses: addressless
+
+Server: HTTP/student-storage-2.42.fr@42.FR
+Client: tschaft@42.FR
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 2
+Ticket length: 340
+Auth time:  Sep  7 13:37:08 2020
+Start time: Sep  7 13:37:09 2020
+End time:   Sep 14 13:37:08 2020
+Ticket flags: enc-pa-rep, transited-policy-checked, pre-authent, proxiable, forwardable
+Addresses: addressless
